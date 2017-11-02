@@ -1,0 +1,6 @@
+c:\users\candido\documents\visual studio 2017\Projects\DistanciaPlanoCartesiano\DistanciaPlanoCartesiano\bin\Debug\DistanciaPlanoCartesiano.exe.config
+c:\users\candido\documents\visual studio 2017\Projects\DistanciaPlanoCartesiano\DistanciaPlanoCartesiano\bin\Debug\DistanciaPlanoCartesiano.exe
+c:\users\candido\documents\visual studio 2017\Projects\DistanciaPlanoCartesiano\DistanciaPlanoCartesiano\bin\Debug\DistanciaPlanoCartesiano.pdb
+c:\users\candido\documents\visual studio 2017\Projects\DistanciaPlanoCartesiano\DistanciaPlanoCartesiano\obj\Debug\DistanciaPlanoCartesiano.csprojResolveAssemblyReference.cache
+c:\users\candido\documents\visual studio 2017\Projects\DistanciaPlanoCartesiano\DistanciaPlanoCartesiano\obj\Debug\DistanciaPlanoCartesiano.exe
+c:\users\candido\documents\visual studio 2017\Projects\DistanciaPlanoCartesiano\DistanciaPlanoCartesiano\obj\Debug\DistanciaPlanoCartesiano.pdb
