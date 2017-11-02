@@ -1,0 +1,36 @@
+C:\simulador versoes\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Form1.resources
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\aluno\Desktop\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.pdb
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Form1.resources
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.CoreCompileInputs.cache
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csprojResolveAssemblyReference.cache
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Form1.resources
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.Properties.Resources.resources
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.GenerateResource.Cache
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.csproj.CoreCompileInputs.cache
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.exe
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\obj\Debug\AplicacaoForm.pdb
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe.config
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.exe
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\bin\Debug\AplicacaoForm.pdb
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.dll
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\AplicacaoForm\bin\Debug\Biblioteca.pdb

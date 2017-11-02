@@ -1,0 +1,17 @@
+C:\Users\aluno\Desktop\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\aluno\Desktop\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\aluno\Desktop\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Candido-$&\Desktop\ConexaoBD2016-20170831T230527Z-001\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Candido-$&\Documents\Desenvolvimento-Web-Desktop-Com-Arquitetuta-Fechada\Visual Studio 2017\Projects\ConexaoBD2016\Biblioteca\obj\Debug\Biblioteca.pdb

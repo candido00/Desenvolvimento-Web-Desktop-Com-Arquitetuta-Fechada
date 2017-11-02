@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoForm", "AplicacaoForm\AplicacaoForm.csproj", "{AB7FBCE4-065E-45A1-809D-9F5286C51EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{1B72C38B-4E7A-47D5-BDA0-ED00D8F9FD5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7FBCE4-065E-45A1-809D-9F5286C51EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7FBCE4-065E-45A1-809D-9F5286C51EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7FBCE4-065E-45A1-809D-9F5286C51EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7FBCE4-065E-45A1-809D-9F5286C51EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B72C38B-4E7A-47D5-BDA0-ED00D8F9FD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B72C38B-4E7A-47D5-BDA0-ED00D8F9FD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B72C38B-4E7A-47D5-BDA0-ED00D8F9FD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B72C38B-4E7A-47D5-BDA0-ED00D8F9FD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
